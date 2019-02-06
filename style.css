@@ -1,0 +1,65 @@
+body {
+  margin: 0 auto;
+  background-color: #FBFFFE;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+}
+
+p {
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+}
+
+ul {
+  font-family: 'Varela Round', sans-serif;
+}
+
+#bio {
+  font-family: 'Varela Round', sans-serif;
+  color: black;
+  text-align: center
+}
+
+#profile_image {
+  border-radius: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 40%;
+}
+
+.intro {
+  background-color: #FBFFFE;
+  width: 500px;        /* Set the width */
+  margin: 0 auto;
+}
+
+.table {
+  background-color: #001514;
+  width: 650px;        /* Set the width */
+  margin: 0 auto;
+  border-radius: 50px;
+}
+
+.footer {
+  color: black;
+}
+
+#artist_photo {
+  width: 215px;
+  height: 270px;
+  border-radius: 40px;
+}
